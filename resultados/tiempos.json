@@ -1,0 +1,242 @@
+[
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 1,
+    "algoritmo": "NaivOnArray",
+    "tiempo_s": 0.02374,
+    "timestamp": "2026-04-26T13:45:20.894368"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 2,
+    "algoritmo": "NaivLoopUnrollingTwo",
+    "tiempo_s": 0.026637,
+    "timestamp": "2026-04-26T13:45:20.921231"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 3,
+    "algoritmo": "NaivLoopUnrollingFour",
+    "tiempo_s": 0.023576,
+    "timestamp": "2026-04-26T13:45:20.945024"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 4,
+    "algoritmo": "WinogradOriginal",
+    "tiempo_s": 0.021661,
+    "timestamp": "2026-04-26T13:45:20.966937"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 5,
+    "algoritmo": "WinogradScaled",
+    "tiempo_s": 0.017755,
+    "timestamp": "2026-04-26T13:45:20.984913"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 6,
+    "algoritmo": "StrassenNaiv",
+    "tiempo_s": 0.025463,
+    "timestamp": "2026-04-26T13:45:21.010649"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 7,
+    "algoritmo": "StrassenWinograd",
+    "tiempo_s": 0.029158,
+    "timestamp": "2026-04-26T13:45:21.040112"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 8,
+    "algoritmo": "III.3 Sequential Block",
+    "tiempo_s": 0.001745,
+    "timestamp": "2026-04-26T13:45:21.042083"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 9,
+    "algoritmo": "III.4 Parallel Block",
+    "tiempo_s": 0.001551,
+    "timestamp": "2026-04-26T13:45:21.043967"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 10,
+    "algoritmo": "III.5 Enhanced Parallel",
+    "tiempo_s": 0.004898,
+    "timestamp": "2026-04-26T13:45:21.049209"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 11,
+    "algoritmo": "IV.3 Sequential Block",
+    "tiempo_s": 0.001643,
+    "timestamp": "2026-04-26T13:45:21.051149"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 12,
+    "algoritmo": "IV.4 Parallel Block",
+    "tiempo_s": 0.001606,
+    "timestamp": "2026-04-26T13:45:21.052982"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 13,
+    "algoritmo": "IV.5 Enhanced Parallel",
+    "tiempo_s": 0.005126,
+    "timestamp": "2026-04-26T13:45:21.058359"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 14,
+    "algoritmo": "V.3 Sequential Block",
+    "tiempo_s": 0.039179,
+    "timestamp": "2026-04-26T13:45:21.097813"
+  },
+  {
+    "caso": 1,
+    "n": 64,
+    "algoritmo_num": 15,
+    "algoritmo": "V.4 Parallel Block",
+    "tiempo_s": 0.037122,
+    "timestamp": "2026-04-26T13:45:21.135375"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 1,
+    "algoritmo": "NaivOnArray",
+    "tiempo_s": 0.191762,
+    "timestamp": "2026-04-26T13:45:21.334163"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 2,
+    "algoritmo": "NaivLoopUnrollingTwo",
+    "tiempo_s": 0.212242,
+    "timestamp": "2026-04-26T13:45:21.546710"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 3,
+    "algoritmo": "NaivLoopUnrollingFour",
+    "tiempo_s": 0.19589,
+    "timestamp": "2026-04-26T13:45:21.742806"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 4,
+    "algoritmo": "WinogradOriginal",
+    "tiempo_s": 0.17035,
+    "timestamp": "2026-04-26T13:45:21.913439"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 5,
+    "algoritmo": "WinogradScaled",
+    "tiempo_s": 0.13363,
+    "timestamp": "2026-04-26T13:45:22.047372"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 6,
+    "algoritmo": "StrassenNaiv",
+    "tiempo_s": 0.175718,
+    "timestamp": "2026-04-26T13:45:22.223473"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 7,
+    "algoritmo": "StrassenWinograd",
+    "tiempo_s": 0.160215,
+    "timestamp": "2026-04-26T13:45:22.383914"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 8,
+    "algoritmo": "III.3 Sequential Block",
+    "tiempo_s": 0.00304,
+    "timestamp": "2026-04-26T13:45:22.387314"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 9,
+    "algoritmo": "III.4 Parallel Block",
+    "tiempo_s": 0.002906,
+    "timestamp": "2026-04-26T13:45:22.390395"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 10,
+    "algoritmo": "III.5 Enhanced Parallel",
+    "tiempo_s": 0.005092,
+    "timestamp": "2026-04-26T13:45:22.395680"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 11,
+    "algoritmo": "IV.3 Sequential Block",
+    "tiempo_s": 0.00295,
+    "timestamp": "2026-04-26T13:45:22.398818"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 12,
+    "algoritmo": "IV.4 Parallel Block",
+    "tiempo_s": 0.003051,
+    "timestamp": "2026-04-26T13:45:22.402093"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 13,
+    "algoritmo": "IV.5 Enhanced Parallel",
+    "tiempo_s": 0.00651,
+    "timestamp": "2026-04-26T13:45:22.408817"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 14,
+    "algoritmo": "V.3 Sequential Block",
+    "tiempo_s": 0.211879,
+    "timestamp": "2026-04-26T13:45:22.621321"
+  },
+  {
+    "caso": 2,
+    "n": 128,
+    "algoritmo_num": 15,
+    "algoritmo": "V.4 Parallel Block",
+    "tiempo_s": 0.216788,
+    "timestamp": "2026-04-26T13:45:22.838489"
+  }
+]
